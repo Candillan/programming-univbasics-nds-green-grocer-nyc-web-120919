@@ -1,4 +1,4 @@
-# I somehow broke my code while coming up with a different solution, and I 
+# I somehow broke my code while coming up with a different solution, and I can't seem to find out how to fix it. This code is filler in the meantime.
 
 CLEARANCE_ITEM_DISCOUNT_RATE = 0.20
 BIG_PURCHASE_DISCOUNT_RATE = 0.10
