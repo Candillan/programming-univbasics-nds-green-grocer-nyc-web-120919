@@ -1,3 +1,5 @@
+# I somehow broke my code while coming up with a different solution, and I 
+
 CLEARANCE_ITEM_DISCOUNT_RATE = 0.20
 BIG_PURCHASE_DISCOUNT_RATE = 0.10
 
